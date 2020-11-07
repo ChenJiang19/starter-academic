@@ -39,16 +39,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: '/#contact'  # For a direct email link, use "chenjianghust@gmail.com".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com.hk/citations?user=ujKriIIAAAAJ&hl=zh-CN&authuser=1
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Chen_Jiang26  
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2983-7512
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
