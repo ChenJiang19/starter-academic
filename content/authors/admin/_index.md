@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently a postdoctoral fellow working with Dr. Zhen Hu in Department of Industrial and Manufacturing Systems Engineering, University of Michigan-Dearborn.
 
 interests:
 - Design under Uncertainty
