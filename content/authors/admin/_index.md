@@ -6,7 +6,7 @@ title: Chen Jiang
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -68,4 +68,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a postdoctoral fellow working with Dr. Zhen Hu in Computational Engineering & Reliability Laboratory, Department of Industrial and Manufacturing Systems Engineering, University of Michigan-Dearborn.
+I am currently a postdoctoral fellow in Department of Industrial and Manufacturing Systems Engineering, University of Michigan-Dearborn. I joined the [Computational Engineering & Reliability Laboratory](http://reliadesign.net/) (CERL) under the supervision of [Dr. Zhen Hu](https://umdearborn.edu/users/zhennhu) in 2019.
+
+Before joining CERL, I have 
