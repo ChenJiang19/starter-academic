@@ -1,37 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Chen Jiang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Michigan-Dearborn
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Design under Uncertainty
+- Uncertainty Quantification
+- Risk and Reliability
+- Bayesian Statistics
+- Reliability-based path planning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Mechanical Engineering
+    institution: Huazhong University of Science and Technology
+    year: 2020
+  - course: B.S. in Engineering Mechanics
+    institution: Hunan University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
