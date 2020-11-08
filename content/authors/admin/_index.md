@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a postdoctoral fellow in Department of Industrial and Manufacturing Systems Engineering, University of Michigan-Dearborn. I joined the [Computational Engineering & Reliability Laboratory](http://reliadesign.net/) (CERL) under the supervision of [Dr. Zhen Hu](https://umdearborn.edu/users/zhennhu) in 2019.
+I am a postdoctoral fellow in the Department of Industrial and Manufacturing Systems Engineering at University of Michigan-Dearborn. I joined the [Computational Engineering & Reliability Laboratory](http://reliadesign.net/) (CERL) under the supervision of [Dr. Zhen Hu](https://umdearborn.edu/users/zhennhu) in 2019.
