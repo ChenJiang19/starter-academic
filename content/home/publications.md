@@ -39,9 +39,11 @@ subtitle = ""
   #   4 = Citation (publication only)
   view = 2
   
-  header:
-  caption: "A Sequential Calibration and Validation Framework for Uncertainty Quantification and Reduction"
-  image: ""
+[[publication]]
+ title = "A Sequential Calibration and Validation Framework for Uncertainty Quantification and Reduction"
+ date = "August, 2020"
+ publication_types = "2"
+ 
   
 [design.background]
   # Apply a background color, gradient, or image.
