@@ -39,6 +39,10 @@ subtitle = ""
   #   4 = Citation (publication only)
   view = 2
   
+  header:
+  caption: "A Sequential Calibration and Validation Framework for Uncertainty Quantification and Reduction"
+  image: ""
+  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
