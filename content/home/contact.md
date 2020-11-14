@@ -9,7 +9,7 @@ title = "Contact"
 subtitle = ""
 
 # Automatically link email and phone?
-#autolink = true
+autolink = False
 
 # Email form provider
 #   0: Disable email form
@@ -21,8 +21,6 @@ subtitle = ""
 icon: envelope
 icon_pack: fas
 link: '/#contact'  # For a direct email link, use "chenjianghust@gmail.com".
-[Email]
-chejiang@umich.edu
-  #captcha = false  # Enable CAPTCHA challenge to reduce spam?
+
 +++
 
