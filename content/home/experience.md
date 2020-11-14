@@ -24,7 +24,6 @@ date_format = "Jan 2006"
   location = "Dearborn, MI"
   date_start = "2020-02-01"
   date_end = ""
-  description = """
   """
 
 [[experience]]
