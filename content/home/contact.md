@@ -18,6 +18,9 @@ subtitle = ""
 #email_form = 2
 
 # Netlify form settings.
+icon: envelope
+icon_pack: fas
+link: '/#contact'  # For a direct email link, use "chenjianghust@gmail.com".
 [Email]
 chejiang@umich.edu
   #captcha = false  # Enable CAPTCHA challenge to reduce spam?
