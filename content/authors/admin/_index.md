@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: Ph.D. in Mechanical Engineering
-    institution: Huazhong University of Science and Technology
+    institution: [Huazhong University of Science and Technology] (http://english.hust.edu.cn/), Wuhan, China
     year: 2020
   - course: B.E. in Engineering Mechanics
-    institution: Hunan University
+    institution: [Hunan University](http://www-en.hnu.edu.cn/), Changsha, China
     year: 2015
 
 # Social/Academic Networking
