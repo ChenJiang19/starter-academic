@@ -28,7 +28,7 @@ education:
   - course: Ph.D. in Mechanical Engineering
     institution: Huazhong University of Science and Technology
     year: 2020
-  - course: B.S. in Engineering Mechanics
+  - course: B.E. in Engineering Mechanics
     institution: Hunan University
     year: 2015
 
