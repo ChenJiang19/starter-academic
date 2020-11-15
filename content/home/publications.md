@@ -39,7 +39,7 @@ subtitle = ""
   #   4 = Citation (publication only)
   view = 2
   
-header:
+#header:
  title = "A Sequential Calibration and Validation Framework for Uncertainty Quantification and Reduction"
  date = "August, 2020"
  publication_types = "2"
